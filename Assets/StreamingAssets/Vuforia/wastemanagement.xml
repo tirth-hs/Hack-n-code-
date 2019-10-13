@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="haza" size="1.200000 1.048352" />
+    <ImageTarget name="61-617512_we-clear-all-household-waste-including-furniture-types" size="1.200000 0.738261" />
+    <ImageTarget name="Agriculture-Logo" size="1.200000 0.900000" />
+    <ImageTarget name="medical-waste-992628" size="1.200000 1.200000" />
+    <ImageTarget name="149-1495839_e-waste-management-e-waste-recycle-clipart" size="1.200000 0.564545" />
+    <ImageTarget name="Industrial" size="1.200000 0.816818" />
+  </Tracking>
+</QCARConfig>
